@@ -20,6 +20,8 @@ public class HelloWorld {
 		
 		a2.clear();
 		
+		System.out.println("Simply adding a new line");
+		
 		System.out.println(a2);
 	}
 }
