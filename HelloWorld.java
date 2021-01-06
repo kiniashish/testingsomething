@@ -18,7 +18,7 @@ public class HelloWorld {
 		
 	
 		
-		a2.toArray();
+		a2.clear();
 		
 		System.out.println(a2);
 	}
